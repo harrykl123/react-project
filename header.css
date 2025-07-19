@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.i{
+    display: flex;
+    background-color: rgb(6, 6, 58);
+}
+.i1{
+    height: 100px;
+    width: 150px;
+    margin-top: -10px;
+}
+.i2{
+    display: flex;
+    gap: 50px;
+    margin-top: 30px;
+    margin-left: 500px;
+    font-size: 20px;
+}
+.a1{
+    text-decoration: none;
+    color: crimson;
+}
+.a1:hover{
+    color: rgb(53, 173, 89);
+}
+.i3{
+    margin-left: 180px;
+    margin-top: 30px;
+    display: flex;
+    gap: 25px;
+}
